@@ -1,0 +1,65 @@
+
+body {
+	/* background-image:url(arch/fondo.jpg); */
+	/* background:-moz-linear-gradient(top left, PaleGreen, #000000, #000000);
+	color:lime; */
+	background-color:#fff
+}
+
+header {
+	height:300px;
+	background-position:50%;
+	background-repeat:no-repeat;
+	background-image:url(arch/infored.png);
+}
+
+nav {
+	text-align:center;
+}
+
+a {
+	margin:10px 100px 10px 10px;
+	font-size:30px;
+	text-decoration:none;
+	background-color:#014f00;
+	color:#0C0155;
+	padding:10px 20px 10px 10px;
+	border-radius:5px;
+	box-shadow:5px 5px 5px #2E9AFE;
+	}
+
+a:link {
+
+}
+
+a:visited {
+	color:;
+}
+
+a:hover {
+	color:#2E9AFE;
+	background-color:#424242;
+	box-shadow:5px 5px 5px #000;
+
+}
+
+a:active {
+
+}
+
+.encabezado {
+	font-size:30px;
+	text-align:left;
+}
+
+div {
+	height:400px;
+	width:300px;
+	background:-moz-linear-gradient(left, #000, #3B170B, #3B240B, #3A2F0B, #393B0B, #2E3B0B, #243B0B, #173B0B, #000);
+	margin:2px 30px 2px 20px;
+	padding:30px;
+	border:10px solid Peru;
+	border-radius:25px;
+	box-shadow:5px 5px 5px #2E9AFE;
+	display:inline-block;
+}
