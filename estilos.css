@@ -22,7 +22,7 @@ a {
 	font-size:30px;
 	text-decoration:none;
 	background-color:#014f00;
-	color:#0C0155;
+	color:#0b73d4;
 	padding:10px 20px 10px 10px;
 	border-radius:5px;
 	box-shadow:5px 5px 5px #2E9AFE;
@@ -55,10 +55,11 @@ a:active {
 div {
 	height:400px;
 	width:300px;
-	background:-moz-linear-gradient(left, #000, #3B170B, #3B240B, #3A2F0B, #393B0B, #2E3B0B, #243B0B, #173B0B, #000);
+	background:
+	/* background:-moz-linear-gradient(left, #000, #3B170B, #3B240B, #3A2F0B, #393B0B, #2E3B0B, #243B0B, #173B0B, #000); */
 	margin:2px 30px 2px 20px;
 	padding:30px;
-	border:10px solid Peru;
+	border:10px solid lime;
 	border-radius:25px;
 	box-shadow:5px 5px 5px #2E9AFE;
 	display:inline-block;
